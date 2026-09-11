@@ -1,2 +1,3 @@
 VM2 post-adoption inherited close runtime control 20260912
 
+VM2 post-adoption synchronize trigger 20260912
