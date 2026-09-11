@@ -1,0 +1,7 @@
+pull_request_rules:
+  - name: vm2 source tenant close 1366591925
+    conditions:
+      - base = main
+    actions:
+      close:
+        message: VM2-XTENANT-CLOSE-1366591925
