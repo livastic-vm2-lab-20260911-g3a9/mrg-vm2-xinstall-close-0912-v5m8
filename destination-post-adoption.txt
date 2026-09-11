@@ -1,0 +1,2 @@
+VM2 post-adoption inherited close runtime control 20260912
+
